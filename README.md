@@ -1,13 +1,13 @@
 ![image](https://github.com/user-attachments/assets/95a9bd0b-e73b-4bd9-9950-9cd1c0d5552a)
 
 
-**<h2>Problem Definition**
+**<h1>Problem Definition**
 
 **Problem:**
 
  The goal of this project is to create a system that can classify emails as either "spam" or "ham".
 
-Spam emails are unwanted messages that are usually for advertising or scams.
+ Spam emails are unwanted messages that are usually for advertising or scams.
  Ham emails are regular, legitimate messages that are not spam.
 
 
@@ -15,7 +15,7 @@ The challenge is to accurately separate spam emails from regular ones using tech
 
 
 
-**<h2>Why This Problem**
+**<h1>Why This Problem**
 
 Email spam is a persistent and growing problem in digital communication. Every day, millions of spam emails are sent, and they often contain irrelevant content, unwanted advertisements, or malicious links. This results in a significant waste of time and resources for individuals and organizations.
 
