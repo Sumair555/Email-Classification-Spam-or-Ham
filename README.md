@@ -1,4 +1,4 @@
----
+
 **<h1>Problem Definition**
 
 **Problem:**
@@ -11,7 +11,7 @@
 
 **The challenge is to accurately separate spam emails from regular ones using techniques from  machine learning models.**
 
----
+
 
 **<h1>Why This Problem**
 
