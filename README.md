@@ -1,7 +1,7 @@
 
-**<h1>Problem Definition**
+**<h3>Problem Definition**
 
-**Problem:**
+*Problem:*
 
  **The goal of this project is to create a system that can classify emails as either "spam" or "ham".**
 
@@ -13,7 +13,7 @@
 
 
 
-**<h1>Why This Problem**
+**<h3>Why This Problem**
 
 Email spam is a persistent and growing problem in digital communication. Every day, millions of spam emails are sent, and they often contain irrelevant content, unwanted advertisements, or malicious links. This results in a significant waste of time and resources for individuals and organizations.
 
