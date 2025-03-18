@@ -3,17 +3,17 @@
 
 *Problem:*
 
- **The goal of this project is to create a system that can classify emails as either "spam" or "ham".**
+ *The goal of this project is to create a system that can classify emails as either "spam" or "ham".*
 
-* **Spam emails are unwanted messages that are usually for advertising or scams.**
-* **Ham emails are regular, legitimate messages that are not spam.**
-
-
-**The challenge is to accurately separate spam emails from regular ones using techniques from  machine learning models.**
+**Spam emails are unwanted messages that are usually for advertising or scams.**
+ **Ham emails are regular, legitimate messages that are not spam.**
 
 
+*The challenge is to accurately separate spam emails from regular ones using techniques from  machine learning models.*
 
-**<h3>Why This Problem**
+
+
+*<h3>Why This Problem*
 
 Email spam is a persistent and growing problem in digital communication. Every day, millions of spam emails are sent, and they often contain irrelevant content, unwanted advertisements, or malicious links. This results in a significant waste of time and resources for individuals and organizations.
 
