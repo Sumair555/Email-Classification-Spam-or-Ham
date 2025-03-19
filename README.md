@@ -61,7 +61,7 @@ The model with the highest accuracy was chosen as the final model for making pre
 
 **<h3>6. Prediction :</h3>**
 
-## Finally, the trained model was used to classify a sample email into spam or ham.
+ Finally, the trained model was used to classify a sample email into spam or ham.
 
 
 
